@@ -1,0 +1,17 @@
+{
+  "name": "leetcode-daily-archive",
+  "version": "1.0.0",
+  "description": "使用 GitHub Actions 自动归档 LeetCode 每日一题",
+  "main": "scripts/fetch-leetcode.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-leetcode.js"
+  },
+  "keywords": [
+    "leetcode",
+    "github-actions",
+    "cron",
+    "daily-challenge"
+  ],
+  "author": "",
+  "license": "MIT"
+}
