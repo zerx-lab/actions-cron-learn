@@ -73,6 +73,7 @@ schedule:
 <!-- LEETCODE_HISTORY_START -->
 | 2026-02-03 | [3637. 三段式数组 I](https://leetcode.cn/problems/trionic-array-i/) | 🟢 简单 | [查看](https://leetcode.cn/problems/trionic-array-i/) |
 | 2026-02-03 | [3637. 三段式数组 I](https://leetcode.cn/problems/trionic-array-i/) | 🟢 简单 | [查看](https://leetcode.cn/problems/trionic-array-i/) |
+| 2026-02-03 | [3637. 三段式数组 I](https://leetcode.cn/problems/trionic-array-i/) | 🟢 简单 | [查看](https://leetcode.cn/problems/trionic-array-i/) |
 <!-- LEETCODE_HISTORY_END -->
 
 ## 手动触发
