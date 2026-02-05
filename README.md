@@ -54,14 +54,14 @@ schedule:
 ## 今日题目
 
 <!-- LEETCODE_DAILY_START -->
-### 2026-02-04
+### 2026-02-05
 
 | 属性 | 值 |
 |------|-----|
-| 题号 | 3640 |
-| 标题 | [三段式数组 II](https://leetcode.cn/problems/trionic-array-ii/) |
-| 难度 | 🔴 困难 |
-| 标签 | 数组, 动态规划 |
+| 题号 | 3379 |
+| 标题 | [转换数组](https://leetcode.cn/problems/transformed-array/) |
+| 难度 | 🟢 简单 |
+| 标签 | 数组, 模拟 |
 
 > 点击标题链接直达 LeetCode 题目页面
 <!-- LEETCODE_DAILY_END -->
@@ -71,6 +71,7 @@ schedule:
 | 日期 | 题目 | 难度 | 链接 |
 |------|------|------|------|
 <!-- LEETCODE_HISTORY_START -->
+| 2026-02-05 | [3379. 转换数组](https://leetcode.cn/problems/transformed-array/) | 🟢 简单 | [查看](https://leetcode.cn/problems/transformed-array/) |
 | 2026-02-04 | [3640. 三段式数组 II](https://leetcode.cn/problems/trionic-array-ii/) | 🔴 困难 | [查看](https://leetcode.cn/problems/trionic-array-ii/) |
 | 2026-02-03 | [3637. 三段式数组 I](https://leetcode.cn/problems/trionic-array-i/) | 🟢 简单 | [查看](https://leetcode.cn/problems/trionic-array-i/) |
 | 2026-02-03 | [3637. 三段式数组 I](https://leetcode.cn/problems/trionic-array-i/) | 🟢 简单 | [查看](https://leetcode.cn/problems/trionic-array-i/) |
