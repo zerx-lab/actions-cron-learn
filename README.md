@@ -54,14 +54,14 @@ schedule:
 ## 今日题目
 
 <!-- LEETCODE_DAILY_START -->
-### 2026-02-06
+### 2026-02-07
 
 | 属性 | 值 |
 |------|-----|
-| 题号 | 3634 |
-| 标题 | [使数组平衡的最少移除数目](https://leetcode.cn/problems/minimum-removals-to-balance-array/) |
+| 题号 | 1653 |
+| 标题 | [使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/) |
 | 难度 | 🟡 中等 |
-| 标签 | 数组, 排序, 滑动窗口 |
+| 标签 | 栈, 字符串, 动态规划 |
 
 > 点击标题链接直达 LeetCode 题目页面
 <!-- LEETCODE_DAILY_END -->
@@ -71,6 +71,7 @@ schedule:
 | 日期 | 题目 | 难度 | 链接 |
 |------|------|------|------|
 <!-- LEETCODE_HISTORY_START -->
+| 2026-02-07 | [1653. 使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/) | 🟡 中等 | [查看](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/) |
 | 2026-02-06 | [3634. 使数组平衡的最少移除数目](https://leetcode.cn/problems/minimum-removals-to-balance-array/) | 🟡 中等 | [查看](https://leetcode.cn/problems/minimum-removals-to-balance-array/) |
 | 2026-02-05 | [3379. 转换数组](https://leetcode.cn/problems/transformed-array/) | 🟢 简单 | [查看](https://leetcode.cn/problems/transformed-array/) |
 | 2026-02-04 | [3640. 三段式数组 II](https://leetcode.cn/problems/trionic-array-ii/) | 🔴 困难 | [查看](https://leetcode.cn/problems/trionic-array-ii/) |
