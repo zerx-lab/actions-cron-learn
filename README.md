@@ -54,14 +54,14 @@ schedule:
 ## 今日题目
 
 <!-- LEETCODE_DAILY_START -->
-### 2026-02-07
+### 2026-02-08
 
 | 属性 | 值 |
 |------|-----|
-| 题号 | 1653 |
-| 标题 | [使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/) |
-| 难度 | 🟡 中等 |
-| 标签 | 栈, 字符串, 动态规划 |
+| 题号 | 110 |
+| 标题 | [平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) |
+| 难度 | 🟢 简单 |
+| 标签 | 树, 深度优先搜索, 二叉树 |
 
 > 点击标题链接直达 LeetCode 题目页面
 <!-- LEETCODE_DAILY_END -->
@@ -71,6 +71,7 @@ schedule:
 | 日期 | 题目 | 难度 | 链接 |
 |------|------|------|------|
 <!-- LEETCODE_HISTORY_START -->
+| 2026-02-08 | [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) | 🟢 简单 | [查看](https://leetcode.cn/problems/balanced-binary-tree/) |
 | 2026-02-07 | [1653. 使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/) | 🟡 中等 | [查看](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/) |
 | 2026-02-06 | [3634. 使数组平衡的最少移除数目](https://leetcode.cn/problems/minimum-removals-to-balance-array/) | 🟡 中等 | [查看](https://leetcode.cn/problems/minimum-removals-to-balance-array/) |
 | 2026-02-05 | [3379. 转换数组](https://leetcode.cn/problems/transformed-array/) | 🟢 简单 | [查看](https://leetcode.cn/problems/transformed-array/) |
